@@ -83,3 +83,4 @@ okb/
 Проект лицензирован в соответствии с условиями лицензии [GNU GPL v3.0](LICENSE).
 
 
+Co-authored-by: deepseek-ai <125433292+deepseek-ai@://github.com>
